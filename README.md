@@ -34,3 +34,6 @@ To verify the hooks, use the demonstration steps in `docs/assignment2-guide.md`.
 ## Assignment integrity
 
 This is a starter project prepared for your own Git workflow. Create your own commits, screenshots, GitHub repository, pull requests and review evidence. Do not present sample output as if it came from a real GitHub action.
+
+## Clone and Push Test
+This update was made from the second cloned repository.
