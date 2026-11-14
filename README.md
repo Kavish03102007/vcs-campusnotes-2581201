@@ -37,3 +37,12 @@ This is a starter project prepared for your own Git workflow. Create your own co
 
 ## Clone and Push Test
 This update was made from the second cloned repository.
+
+## Project Structure
+
+- `index.html` - page layout and form for notes
+- `app.js` - note logic: create, search, delete and localStorage handling
+- `styles.css` - styling for the app
+- `docs/` - assignment guide and demonstration steps
+- `.githooks/` - tracked pre-commit and commit-msg hooks
+- `.gitignore` - files excluded from version control
